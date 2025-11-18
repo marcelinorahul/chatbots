@@ -1,0 +1,331 @@
+[
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Saya ingin reset password SIAKAD sendiri/mandiri gimana caranya?",
+                "jawaban": "Bisa reset lewat https://gerbang.unja.ac.id/lupa-password. Masukkan username (NIM untuk mahasiswa, NIDN untuk dosen, atau NIP/NIK untuk tendik), lalu sistem akan mengirimkan link konfirmasi ke email untuk buat password baru gunakan kombinasi angka, huruf, dan simbol agar lebih aman. Perlu diingat, password e-Learning sama dengan password SIAKAD, jadi kalau tetap bermasalah silakan isi form keluhan ke Helpdesk LPTIK dengan data lengkap. Petugas akan membantu reset dan mengirimkan password baru via WhatsApp."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana syarat lulus dengan predikat cumlaude, dan apakah masih bisa cumlaude kalau skripsi berlanjut sampai semester 8?",
+                "jawaban": "Predikat kelulusan cumlaude di Universitas Jambi ditentukan berdasarkan PERATURAN REKTOR UNJA Nomor 31 Tahun 2024. Syaratnya adalah IPK akhir 3,80–4,00 dan masa studi tidak melebihi batas maksimal yang ditetapkan: 3 tahun untuk D3, 4 tahun untuk D4/S1, 2 tahun untuk Magister/Spesialis, dan 3 tahun untuk Doktor. Selama masih lulus dalam rentang masa studi tersebut (misalnya skripsi selesai di semester 8 untuk S1), mahasiswa tetap bisa mendapatkan predikat cumlaude, asalkan IPK memenuhi. Jika masa studi melewati batas (misalnya S1 lebih dari 4 tahun), otomatis predikat cumlaude tidak dapat diberikan meskipun IPK tinggi."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara mengisi (input) sertifikat dan prestasi ke SKPI (Surat Keterangan Pendamping Ijazah)",
+                "jawaban": "Untuk mengisi SKPI (Surat Keterangan Pendamping Ijazah), silakan buka laman skpi.unja.ac.id, login menggunakan username dan password, lalu input seluruh kegiatan atau prestasi melalui menu Input Kegiatan dengan klik Rekam Kegiatan > Input Kegiatan. Pada halaman atas akan terlihat bobot wajib dan bobot yang sudah terkumpul. Klik Tambah Data, lalu isi form sesuai jenis kegiatan yang diikuti. Untuk panduan lebih lengkap, bisa langsung lihat tutorial di YouTube: https://youtu.be/dvJvW6RpTuk"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apa prosedur dan persyaratan untuk mengajukan cuti akademik?",
+                "jawaban": "Mahasiswa yang ingin cuti akademik perlu mengajukan permohonan resmi melalui fakultas dan akan diproses oleh BAK. Setelah berkas diverifikasi melalui SIAKAD, status cuti akan ditetapkan, dan mahasiswa akan menerima Surat Keterangan Cuti Akademik yang dikirimkan ke fakultas/pascasarjana serta ke mahasiswa bersangkutan. Khusus program S2 dan S3, ada tambahan kewajiban membayar tagihan cuti sebelum surat diterbitkan."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Data saya di PDDikti salah (Nama, NIM, typo), bisa diubah tidak?",
+                "jawaban": "Silakan datang langsung ke unit BAK di Gedung Unifac dan ajukan permohonan perubahan data dengan melampirkan dokumen pendukung yang benar. Petugas BAK akan memvalidasi berkas, lalu meneruskan proses perubahan ke PDDikti melalui sistem resmi. Jika sudah disetujui dan diperbarui, Anda akan mendapat notifikasi bahwa data di PDDikti telah diperbaiki."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara membuat surat aktif kuliah atau pernah kuliah?",
+                "jawaban": "Untuk *Surat Aktif/Masih Kuliah*, mahasiswa cukup membuat surat permohonan ke BAK dengan melampirkan riwayat registrasi. Setelah diverifikasi dan divalidasi melalui SIAKAD, surat akan dicetak, ditandatangani, lalu bisa diambil di BAK dengan tanda tangan bukti pengambilan. Lalu Untuk *Surat Pernah Kuliah*, mahasiswa membuat surat permohonan resmi ke Rektor. Surat kemudian diproses melalui disposisi ke BAK, diverifikasi, divalidasi, lalu diterbitkan Surat Keterangan Pernah Kuliah yang sudah ditandatangani. Mahasiswa bisa mengambilnya langsung di BAK setelah selesai."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara membuat email baru dengan domain kampus yaitu @unja.ac.id",
+                "jawaban": "Email domain @unja.ac.id yang pribadi hanya diperuntukkan bagi dosen dan tenaga kependidikan. Langkah pertama adalah melengkapi data di SIMPEG terlebih dahulu. Setelah data SIMPEG lengkap, mengisi form pembuatan email yang linknya akan diberikan oleh petugas UPA TIK. Untuk keperluan pribadi dapat langsung diproses, namun untuk keperluan institusi harus disertai surat resmi dari fakultas ke kepala unit kerjanya. Setelah proses selesai, informasi akun email akan dikirim melalui nomor HP yang terdaftar di form."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana kalau jadwal kontrak mata kuliah/KRS/KHS sudah tutup solusinya gimana?",
+                "jawaban": "Hubungi PA (Pembimbing Akademik), sosialisasikan kenapa bisa terlambat. Minta persetujuan kepada PA bahwa boleh mengontrak mata kuliah yang telat di kontrak. Temui Wakil Dekan I Bagian Akademik di Fakultas masing-masing untuk meminta bantuan membuka jadwal mengontrak pada mahasiswa yang bersangkutan. Sebelum itu, mahasiswa harus membuat surat pertanyaan memakai materai 6000 bahwa mahasiswa tidak akan mengulang kembali kesalahan yang sama disemester depan. Bila Wakil Dekan I Bagian Akademik tidak bisa membuka jadwal mengontrak untuk mahasiswa, mahasiswa yang bersangkutan membawa KHS yang akan di kontrak dengan surat pertanyaan bermaterai (di tanda tangani oleh PA, Ka. Prodi dan Wakil Dekan I) dibawa ke UPATIK, dan staff Helpdesk bertanya langsung ke Ka. UPATIK dan Kasubbag . Barulah dapat di proses oleh UPATIK."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Nilai sudah ada di KHS tapi belum keluar di transkrip nilai, solusinya gimana?",
+                "jawaban": "Jika nilai belum ada di KHS, segera hubungi dosen mata kuliah terkait. Namun jika nilai sudah ada di KHS tetapi belum masuk transkrip, silakan temui Bagian Akademik Fakultas atau Wakil Dekan I Bidang Akademik. Apabila diarahkan ke UPATIK, siapkan cetakan KHS yang sudah ada nilainya di SIAKAD, transkrip yang belum ter-update, serta tanda tangan dari Dosen PA dan Wakil Dekan I, lalu serahkan berkas tersebut ke Kasubbag UPATIK untuk proses input nilai ke transkrip."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Gimana dan dimana bisa melihat/akses informasi atau pengumuman wisuda UNJA?",
+                "jawaban": "Pengumuman wisuda UNJA dapat dilihat di website Biro Akademik dan Kemahasiswaan (BAK) UNJA pada bagian Info Akademik di tengah dashboard: https://bak.unja.ac.id . Di sana tersedia jadwal pengambilan perlengkapan wisuda, pengumuman registrasi, dan informasi terkait wisudawan"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana jika nilai di SIAKAD salah input atau belum muncul padahal sudah mengikuti ujian? ",
+                "jawaban": "Jika nilai salah, Mahasiswa perlu membuat surat permohonan perbaikan nilai yang ditandatangani oleh Wakil Dekan Bidang Akademik (WD BAKSI) dan menyerahkannya ke petugas helpdesk UPATIK. Selanjutnya, petugas akan memverifikasi dokumen pendukung, melakukan pengecekan, serta mengajukan update data nilai sesuai permohonan. Jika dinilai layak, data akan diperbaiki, dicek ulang, lalu diarsipkan. Proses ini memastikan nilai yang salah atau belum muncul di SIAKAD dapat diperbaiki dengan benar."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Password SIAKAD saya tidak bisa digunakan untuk login atau email ga bisa di akses, apa yang harus dilakukan? Bisa reset password siakad di helpdesk?",
+                "jawaban": "Silahkan datang ke UPATIK dan mengisi form keluhan terlebih dahulu dengan melengkapkan data dan nomor HP yang aktif, dan deskripsi keluhan (misal:Email siakad Tidak bisa di akses). Setelah form diterima, Helpdesk atau Tim UPA TIK akan mencoba mereset password. Lalu password baru akan dikirimkan melalui WhatsApp ke nomor HP yang tercantum dalam form."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Kapan tanggal/jadwal/kalender pasti berakhirnya perkuliahan semester ini?",
+                "jawaban": "Informasi mengenai tanggal berakhirnya perkuliahan semester ini dapat dilihat langsung pada kalender akademik resmi Universitas Jambi melalui link https://www.unja.ac.id/kalender-akademik/. Jadwal lengkap setiap kegiatan akademik, termasuk berakhirnya perkuliahan, tercantum di sana. Jika terjadi perubahan mendadak, biasanya akan diumumkan langsung oleh koordinator program studi masing-masing atau penanggung jawab prodinya."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Mengapa saat login ke Elista muncul keterangan bahwa akun saya belum terdaftar?",
+                "jawaban": "Hal tersebut biasanya terjadi karena mahasiswa belum mengontrak mata kuliah Tugas Akhir. Sistem Elista hanya bisa digunakan jika mata kuliah Tugas Akhir sudah diambil di KRS. Jadi, silakan pastikan terlebih dahulu Anda sudah mengontrak mata kuliah Tugas Akhir di SIAKAD. Jika sudah mengontrak tetapi tetap muncul keterangan akun belum terdaftar, segera hubungi pengelola Tugas Akhir di program studi untuk pengecekan lebih lanjut."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara melihat jadwal presentasi seminar/ujian/sidang/sempro saya?",
+                "jawaban": "Jadwal akan muncul di menu *Jadwal Seminar/Ujian* di ELISTA setelah pengajuannya disetujui dan diverifikasi. Informasi meliputi nama mahasiswa, NIM, judul penelitian, angkatan, program studi, tanggal, waktu, ruang ujian, jenis ujian (seminar proposal, seminar hasil, sidang tertutup, atau sidang terbuka), serta daftar dosen penguji dan pembimbing"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Di mana saya bisa melihat nilai seminar/ ujian/ sidang/ sempro, termasuk status lulus atau tidak lulus?",
+                "jawaban": "Nilai seminar/ujian dapat dicek di dashboard awal pada menu Jadwal Seminar/Ujian. Tepat di atas tombol cetak berita acara, tersedia kolom Hasil yang memuat nilai lengkap beserta komentar penguji dan pembimbing. Jika kolom hasil belum muncul, berarti nilai masih dalam proses input dan belum final di sistem."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Cara unduh skripsi/Tesis/Artikel lengkap, full dari repository UNJA?",
+                "jawaban": "Untuk mengakses dan download skripsi/jurnal lengkap dari Repository UNJA, mahasiswa tidak bisa langsung download sendiri karena akses terbatas. Mahasiswa harus datang ke perpustakaan dan meminta bantuan petugas perpustakaan, kemudian petugas akan login menggunakan akun administrator mereka untuk membuka akses penuh ke semua koleksi repository. Setelah itu, petugas akan mencari dan mendownload file skripsi/jurnal yang dibutuhkan mahasiswa, lalu mengirimkannya melalui email mahasiswa yang bersangkutan. Untuk panduan teknis lengkap repository dapat dilihat di: https://repository.unja.ac.id/Panduan_Teknis_Repository.pdf"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana prosedur jika saya perlu mengganti dosen pembimbing skripsi di Universitas Jambi?",
+                "jawaban": "Untuk mengganti dosen pembimbing skripsi di Universitas Jambi, mahasiswa perlu mengajukan permohonan tertulis kepada Ketua Program Studi dengan menyebutkan alasan yang jelas sesuai prosedur atau SOP fakultas. Selanjutnya, mahasiswa melampirkan surat pengajuan topik penelitian beserta kerangka proposal, lalu sekretariat fakultas akan memproses dan menerbitkan SK dosen pembimbing yang baru"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana prosedur untuk mendapatkan surat penelitian atau pengabdian bagi dosen?",
+                "jawaban": "Dosen terlebih dahulu membuat surat permohonan resmi yang ditujukan kepada Wakil Dekan Bidang Akademik, Kemahasiswaan, dan Sistem Informasi (BAKSI) melalui Subbagian Akademik. Surat tersebut harus memuat judul, lokasi, dan waktu penelitian/pengabdian, serta dilampiri fotokopi lembar pengesahan kegiatan. Setelah itu, petugas akademik akan memproses dan menyusun draft surat. Draft kemudian diparaf oleh Kasubbag Akademik dan ditandatangani Wakil Dekan BAKSI. Surat yang sudah selesai diberi nomor, cap, dan tanggal, lalu diarsipkan. Terakhir, dosen dapat mengambil surat di Bagian Akademik, Perlu dicatat, prosedur ini merujuk pada SOP Fakultas Sains dan Teknologi (FST) UNJA, sehingga detailnya bisa berbeda di fakultas lain."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana prosedur validasi transkrip akademik mahasiswa yang akan wisuda di Universitas Jambi?",
+                "jawaban": "Validasi transkrip akademik dilakukan setelah mahasiswa menyelesaikan seluruh administrasi di program studi. Ketua Prodi terlebih dahulu mengusulkan nama calon wisudawan ke Wakil Dekan BAKSI melalui Subbagian Akademik. Selanjutnya, petugas akademik akan memeriksa dan menyesuaikan data transkrip, termasuk nama mata kuliah, kode, dan jumlah SKS agar sesuai dengan kurikulum yang berlaku. Setelah proses validasi selesai, transkrip disetujui untuk dicetak oleh BAK Universitas Jambi. Mahasiswa kemudian bisa mengambil transkrip akademiknya di BAK. Prosedur ini dipandu oleh SOP-FST-AKAD-11 (Validasi Transkrip Akademik) sehingga memastikan data akademik wisudawan tercatat secara resmi dan benar."
+            },
+
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apakah mahasiswa yang sudah lulus dan melengkapi semua persyaratan bisa mendapatkan ijazah dan transkrip nilai sebelum wisuda, misalnya untuk keperluan melamar pekerjaan?",
+                "jawaban": "ijazah dan transkrip nilai resmi hanya dapat diterbitkan pada saat pelaksanaan wisuda, sehingga tidak dapat diberikan sebelum acara wisuda berlangsung. Namun, untuk keperluan melamar pekerjaan, mahasiswa bisa menggunakan Surat Keterangan Lulus (SKL) dan transkrip sementara yang dikeluarkan oleh program studi dan disahkan oleh fakultas."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Judul skripsi saya di Elista ternyata salah. Bagaimana cara mengubah atau memperbaikinya? Apakah harus ke UPATIK atau bisa dilakukan sendiri?",
+                "jawaban": "Kalau judul skripsi di salah, mahasiswa yang belum lulus bisa langsung mengubahnya sendiri dengan cara login ke Elista, pilih menu Bimbingan, lalu klik Ubah Data Penelitian dan sesuaikan judul sesuai arahan dosen pembimbing; sedangkan bagi mahasiswa yang sudah lulus, perubahan judul hanya bisa diproses melalui UPATIK dengan mengajukan permohonan resmi."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apakah universitas masih memberikan kesempatan (perpanjangan) pendaftaran wisuda jika terlambat daftar?",
+                "jawaban": "Perpanjangan pendaftaran wisuda hanya diberikan jika kuota wisudawan belum mencapai 1000 peserta. Jika kuota sudah penuh, maka tidak ada perpanjangan pendaftaran."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana aturan penggunaan kop surat di Fakultas?",
+                "jawaban": "Kalau suratnya untuk fakultas, pakai kop Fakultas. Kalau untuk jurusan, kop-nya Fakultas dan Jurusan. Kalau untuk prodi, kop-nya Fakultas, Jurusan, dan Prodi. Nomor surat mengikuti aturan administrasi fakultas supaya tercatat di arsip."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara menggunakan sistem Elista UNJA? Apakah ada panduannya?",
+                "jawaban": "Mahasiswa bisa mempelajari panduan penggunaan Elista melalui file resmi yang sudah disediakan. Silakan akses link berikut untuk melihat panduan lengkapnya: https://elista.unja.ac.id/assets/Panduan.pdf"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara menggunakan i-LMS (elearning)Universitas Jambi dan di mana saya bisa menemukan panduan lengkap beserta video tutorialnya?",
+                "jawaban": "Panduan penggunaan i-LMS UNJA tersedia lengkap dalam bentuk softcopy dan video tutorial. Mahasiswa maupun dosen bisa mengaksesnya langsung di laman berikut: https://elearning.unja.ac.id/local/staticpage/view.php?page=panduan_elearning"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apa saja syarat lengkap pendaftaran yudisium UNJA?",
+                "jawaban": "Untuk mengikuti yudisium, mahasiswa wajib melengkapi 16 berkas, yaitu terdaftar di akun ELISTA, formulir pendaftaran yudisium online beserta foto, berita acara ujian (asli dan fotokopi), transkrip nilai yang sudah divalidasi prodi, surat keterangan bebas pustaka dari Universitas dan Pascasarjana, fotokopi sertifikat TOEFL/JUELT, fotokopi ijazah terakhir, bukti penyerahan tesis/disertasi dari Pascasarjana, surat keterangan mengikuti yudisium dari prodi dan Pascasarjana, jurnal publikasi sesuai jenjang, fotokopi KTP, bukti riwayat registrasi, serta mengunggah seluruh berkas dalam bentuk scan ke Google Form online, kemudian menyerahkan fisiknya ke bagian Akademik"
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apakah mahasiswa bisa mengajukan pembimbing skripsi jika belum melaksanakan magang atau kerja praktik?",
+                "jawaban": "Tidak bisa. Syarat pengajuan pembimbing skripsi di Universitas Jambi adalah melampirkan KRS semester berjalan serta berita acara ujian magang/kerja praktik."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apakah bimbingan tugas akhir bisa dilakukan secara online di ELISTA? Jika ada kendala",
+                "jawaban": "Bisa. Mahasiswa dapat mengajukan bimbingan online melalui ELISTA dengan masuk ke menu Tools → Bimbingan Online, lalu memilih dosen pembimbing yang tercantum di Room. Setelah itu, mahasiswa perlu mengajukan sesi bimbingan kepada dosen terkait. Proses bimbingan dapat dilakukan kapanpun dan dimanapun sesuai kesepakatan mahasiswa dan dosen pembimbing."
+            },
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Apa saja kewajiban mahasiswa tugas akhir di ELISTA?",
+                "jawaban": "Mahasiswa wajib untuk input data penelitian, rencana alur waktu (timeline) target bimbingan, catat tiap-tiap kegiatan bimbingan di agenda bimbingan, pendaftaran seminar proposal, pendaftaran seminar hasil, pendaftaran sidang tugas akhir, dan unggah berkas tugas akhir. Untuk mahasiswa di beberapa prodi/fakultas/jenjang pendidikan tertentu, melakukan pendaftaran ujian komprehensif dan sidang terbuka melalui ELISTA."
+            },
+
+            {
+                "kategori": "Akademik",
+                "pertanyaan": "Bagaimana cara mencatat kegiatan bimbingan tugas akhir, apakah masih pakai kartu bimbingan atau sudah di ELISTA?",
+                "jawaban": "Mahasiswa tidak perlu lagi mencatatnya di kertas kartu agenda bimbingan, cukup tercatat di dalam ELISTA. Jika bimbingan dilakukan secara tatap muka, maka mahasiswa wajib mencatat/menginputkan kegiatan bimbingan tersebut ke dalam ELISTA melalui menu Bimbingan ke sub menu Agenda Bimbingan. Namun, ketika mahasiswa melakukan proses bimbingan secara online atau melalui aplikasi ELISTA, maka kegiatan bimbingan akan terekam secara otomatis ke dalam ELISTA dan tercatat di Agenda Bimbingan. Jumlah total kegiatan bimbingan ini akan menjadi persyaratan agar mahasiswa dapat lanjut ke tahapan selanjutnya dalam penyelesaian tugas akhir. Untuk itu, setiap kegiatan bimbingan yang telah dilakukan harus dipastikan telah tercatat di Agenda Bimbingan."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Saya (dosen/staf/tendik) lupa password email kampus unja.ac.id, bagaimana cara mengatasinya? ",
+                "jawaban": "Reset password email UNJA dilakukan melalui Helpdesk UPATIK, khusus untuk dosen & tenaga kependidikan. Mahasiswa tidak mendapatkan email UNJA. Silakan datang ke UPATIK dan isi form helpdesk untuk pengajuan reset password email. Setelah itu, petugas akan mengecek data, dan jika sesuai, password email akan segera direset sehingga bisa kembali mengakses email kampus."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Jika hanya tinggal mengontrak tugas akhir, apakah bisa mengajukan pembebasan UKT?",
+                "jawaban": "Pembebasan UKT dapat diajukan apabila mahasiswa sudah melaksanakan ujian seminar hasil dan hanya menunggu jadwal sidang yang ditentukan oleh program studi."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Kapan honor mengajar keluar atau dicairkan?",
+                "jawaban": "Honor mengajar dikeluarkan setelah perkuliahan berakhir, dibuktikan melalui monitoring perkuliahan, dan setelah fakultas menyelesaikan proses pengajuan ke universitas."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana cara mendapatkan kontak, whatsapp, nomor dosen?",
+                "jawaban": "Kontak dosen tidak dibagikan secara langsung karena bersifat pribadi. Jika perlu menghubungi dosen, mahasiswa dapat menghubungi melalui staf tendik di jurusan/program studi masing-masing"
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Kenapa SIAKAD/SKPI/EDIMAS sering tidak bisa diakses atau error?",
+                "jawaban": "SIAKAD atau aplikasi lainnya kadang tidak bisa diakses karena ribuan mahasiswa mengakses secara bersamaan di waktu tertentu sehingga sistem mengalami error. Jika hal ini terjadi, disarankan mencoba kembali di jam berbeda atau lakukan refresh berkala. Apabila kendala berlanjut lama, bisa melaporkannya ke Helpdesk UPTIK melalui WhatsApp +6285124889516 untuk mendapatkan bantuan teknis."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Nomor WhatsApp, Nomor, kontak helpdesk untuk bertanya ke helpdesk menyampaikan keluhan?",
+                "jawaban": "Untuk keluhan maupun bantuan teknis masalah sistem dapat menghubungi Helpdesk UPATIK melalui WhatsApp di nomor +6285124889516."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Ijazah saya hilang, bagaimana cara membuat surat keterangan pengganti?",
+                "jawaban": "Mahasiswa perlu mengajukan surat permohonan kepada Rektor dengan melampirkan fotokopi ijazah dan transkrip nilai. Setelah itu, berkas akan diproses melalui Bagian Akademik (BAK) untuk disposisi, validasi, dan tindak lanjut. Proses ini meliputi pemeriksaan kelengkapan dokumen, pencetakan dan penandatanganan surat keterangan pengganti, hingga penomoran dan pengarsipan. Jika semua tahap selesai, mahasiswa dapat mengambil surat keterangan pengganti ijazah di BAK dengan menandatangani buku surat keluar."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana cara mendapatkan aktivasi Zoom Premium bagi dosen?",
+                "jawaban": "Dosen yang ingin menggunakan Zoom Premium UNJA harus memastikan email kampusnya sudah terdaftar di akun Zoom UNJA. Setelah itu, buka email undangan dari Zoom dan ikuti langkah aktivasi dengan memilih Approve the Request, lalu I Acknowledge and Switch. Selanjutnya, masuk dengan opsi Sign in with Google menggunakan email kampus. Jika berhasil, akun akan otomatis terhubung ke Zoom Education Universitas Jambi dan dapat digunakan melalui aplikasi Zoom dengan login menggunakan email kampus."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Dimana tempat bertanya kalau bingung tidak paham pakai (aplikasi/system/website) kampus?",
+                "jawaban": "Di website kampus sudah mempunyai panduan atau pedoman cara pakai aplikasinya masing-masing. silahkan tanya kembali aplikasi apa yang kamu bingungkan agar kami beri link panduan nya. Jika mengalami kesulitan atau error saat menggunakan aplikasi kampus, silakan lapor ke Helpdesk UPTIK melalui WhatsApp +6285124889516 untuk bantuan teknis."
+            },
+
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "WhatsApp/kontak/CP admin BAK untuk bertanya?",
+                "jawaban": "Jika ingin menghubungi Biro Akademik dan Kemahasiswaan (BAK) UNJA dapat melalui WhatsApp +6282181476636 kontak berasal dari website BAK (https://bak.unja.ac.id)."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana prosedur atau alur pengajuan beasiswa KIP-K bagi mahasiswa baru di Universitas Jambi?",
+                "jawaban": "Untuk mengajukan beasiswa KIP-K di Universitas Jambi, mahasiswa baru yang lulus jalur SNMPTN, SBMPTN, atau SMMPTN (khusus KIP-K) wajib mengikuti alur resmi mulai dari verifikasi data pokok dan data pendukung saat registrasi, dilanjutkan dengan visitasi ke rumah calon penerima, lalu hasilnya dibahas dalam rapat tim seleksi dengan WR3 untuk menentukan penerima yang sah. Setelah itu universitas menerbitkan SK penetapan penerima KIP-K, melakukan registrasi, membuat rekening bank, hingga menginput data ke sistem KIP-K Kemendikbudristek agar dana UKT dan biaya hidup bisa dicairkan. Semua informasi dan pengumuman resmi dapat dipantau melalui laman UNJA atau kanal fakultas masing-masing."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Gimana cara mengajukan penyesuaian/pengurangan UKT apakah bisa?",
+                "jawaban": "Mahasiswa bisa mengajukan penyesuaian atau pengurangan UKT melalui laman https://regis.unja.ac.id/ sesuai jadwal yang diumumkan. Setelah mengisi permohonan dan mengunggah dokumen persyaratan, berkas akan diverifikasi oleh BAK dan fakultas. Jika disetujui, keputusan penyesuaian UKT akan ditetapkan melalui SK, kemudian tagihan UKT baru akan muncul di sistem."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana jika tagihan JUELT sudah lewat batas pembayaran?",
+                "jawaban": "Bersangkutan bisa memakai 7 digit dibelakang KTP (Kartu Tanda Penduduk) untuk mendaftar ulang JUELT / TOEFL Bersangkutan bisa ke UPATIK untuk meminta perpanjangan tanggal pembayaran."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Dimana untuk bisa cek ketersediaan (ruangan, laboratorium, balairung, fakultas) yang kosong?",
+                "jawaban": "Ketersediaan ruangan, termasuk ruang kuliah, laboratorium, balairung, maupun fasilitas lain di Universitas Jambi dapat dicek melalui SIAKAD pada tautan berikut: Pada halaman tersebut ditampilkan jadwal penggunaan ruangan sehingga dapat diketahui apakah ruangan sedang dipakai atau kosong"
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Lisensi Microsoft Office 365 saya (Word, Excel, dll) sudah expired, kadaluarsa bagaimana cara perpanjangannya?",
+                "jawaban": "Dosen atau staf yang mengalami kendala lisensi Office expired dapat datang ke UPATIK. Silakan melapor terlebih dahulu ke helpdesk, lalu akan diarahkan ke petugas bagian instalasi dan aktivasi untuk dibuatkan atau diperpanjang lisensinya secara resmi."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Saya sudah membayar UKT, tetapi status di sistem masih belum terverifikasi. Apa yang harus saya lakukan?",
+                "jawaban": "Silakan simpan dan tunjukkan bukti transfer atau struk pembayaran UKT. Perlu diketahui, proses verifikasi biasanya membutuhkan waktu hingga 1×24 jam atau setelah sistem diperbarui secara harian. Jika lewat dari itu status masih belum terverifikasi, segera hubungi bagian unit keuangan atau helpdesk untuk pengecekan lebih lanjut."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Di mana mahasiswa dapat melihat informasi terbaru mengenai beasiswa?",
+                "jawaban": "Informasi mengenai beasiswa terbaru di Universitas Jambi dapat dilihat melalui laman resmi Biro Akademik dan Kemahasiswaan (BAK) di https://bak.unja.ac.id/. Pada dashboard BAK, informasi beasiswa ditandai pada bagian Info Kemahasiswaan. Di sana tercantum pengumuman jenis-jenis beasiswa yang sedang dibuka beserta syarat dan tata cara pendaftarannya."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Saya mahasiswa baru (maba), apa saja yang harus dilakukan untuk registrasi ulang?",
+                "jawaban": "Mahasiswa baru wajib melakukan registrasi melalui laman https://regis.unja.ac.id/ dengan mengisi data diri dan mengunggah dokumen yang diminta, kemudian mengikuti proses verifikasi dan validasi sesuai jadwal. Setelah data dinyatakan valid, mahasiswa akan mendapatkan besaran UKT dan ID tagihan untuk pembayaran. Jika pembayaran UKT sudah terkonfirmasi, sistem akan menerbitkan NIM dan mahasiswa resmi terdaftar sebagai mahasiswa UNJA."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Saya mahasiswa lama mau daftar KIP-K, masih bisa tidak?",
+                "jawaban": "Mahasiswa lama masih bisa menjadi penerima KIP-K, namun tidak melalui pendaftaran baru seperti mahasiswa angkatan awal. Mekanismenya adalah melalui evaluasi rutin yang dilakukan setiap akhir semester oleh fakultas dan BAK. Hasil evaluasi penerima beasiswa dibahas dalam rapat bersama WR3 dan WD3 untuk menentukan kelanjutan atau pemberhentian status penerima. Jika ada mahasiswa lama yang lolos evaluasi dan memenuhi syarat, akan diterbitkan SK Penetapan Penerima Beasiswa KIP-K, dilanjutkan dengan proses registrasi, penentuan UKT, hingga pencairan dana UKT dan biaya hidup melalui sistem KIP-K Kemendikbudristek"
+            },
+
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Pengumuman jadwal JUELT atau TOEFL bisa dapat dilihat dimana?",
+                "jawaban": "Pengumuman jadwal JUELT/TOEFL dapat dilihat langsung di dashboard awal SIAKAD UNJA (https://siakad.unja.ac.id/) pada bagian Informasi Jadwal JUELT. Di sana ditampilkan jadwal terbaru setiap batch beserta tanggal pelaksanaannya."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana prosedur atau alur pengajuan usul kenaikan pangkat atau jabatan fungsional untuk dosen dan tenaga kependidikan di Universitas Jambi?",
+                "jawaban": "Proses kenaikan jabatan fungsional akademik dosen di Universitas Jambi mengikuti SOP Nomor 33/UN21.1/KP/2022, mulai dari dosen menyusun Daftar Usul Penetapan Angka Kredit (DUPAK) lengkap dengan bukti kinerja, rekam jejak penelitian di SINTA, serta surat pernyataan melaksanakan kegiatan. Usulan diverifikasi dan disetujui pimpinan fakultas bersama senat fakultas, lalu diteruskan ke Rektor. Setelah itu, Biro Umum, Perencanaan, dan Keuangan (BUPK) melakukan entry, verifikasi, dan validasi usulan ke laman pak.kemdikbud.go.id, dilanjutkan dengan sidang senat universitas untuk menilai kelayakan. Jika memenuhi syarat, Rektor mengirimkan usulan penetapan angka kredit ke Direktorat Jenderal Dikti untuk penilaian oleh Tim PAK Nasional. Dokumen wajib meliputi DUPAK, bukti kinerja, surat pernyataan integritas akademik, berita acara senat, dan rekomendasi bidang ilmu. Informasi detail dan panduan resmi bisa diakses melalui https://simpeg.unja.ac.id atau menghubungi BUPK UNJA."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Siapa nama lengkap Rektor Universitas Jambi saat ini dan berapa lama menjabat?",
+                "jawaban": "Rektor Universitas Jambi saat ini adalah Prof. Dr. Helmi, S.H., M.H., Rektor ke-9 Universitas Jambi. Beliau menjabat untuk periode 2024–2028 dengan masa jabatan 4 tahun."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Kantor tempat BAK Universitas Jambi sekarang berada di lantai berapa dan di gedung mana?",
+                "jawaban": "Kantor BAK Universitas Jambi saat ini berada di Gedung UNIFAC lantai 2, bersama layanan universitas lainnya seperti LP2M, kepegawaian, dan ruang pengadaan."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Dimana lokasi posisi Gedung LPTIK (UPATIK) Universitas Jambi?",
+                "jawaban": "Gedung LPTIK (UPATIK) berada di Kampus Pinang Masak Universitas Jambi, Jl. Jambi–Muaro Bulian KM. 15 Mendalo, tepatnya setelah Fakultas Pertanian. Kamu juga bisa cek lokasinya langsung lewat Google Maps di Cyber Park LPTIK UNJA atau melalui link ini: https://share.google/w8OQwZnSWe2YXCNEy"
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Kapan dana beasiswa biasanya cair ke rekening mahasiswa?",
+                "jawaban": "Pencairan dana beasiswa merupakan kewenangan universitas, bukan fakultas. Fakultas hanya mengumpulkan dan memverifikasi berkas pengajuan mahasiswa. Untuk informasi mengenai jadwal pencairan, mahasiswa dapat langsung menghubungi Bagian Akademik dan Kemahasiswaan (BAK) Universitas."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana cara perhitungan pembayaran kelebihan beban mengajar dosen (sks lebih)?",
+                "jawaban": "Perhitungan kelebihan beban mengajar dilakukan dengan beberapa tahap. Pertama, ditentukan dulu beban wajib pejabat sesuai jabatan: Dekan (1 SKS), Wakil Dekan (2 SKS), serta Ketua Jurusan/Prodi, Sekretaris Jurusan, dan Kepala Laboratorium (masing-masing 3 SKS). Setelah itu, jumlah SKS yang diajarkan akan dikurangi beban wajib tersebut sesuai rumus yang berlaku. Jika ada kelebihan beban (SKS lebih), maka pembayaran dihitung dengan rumus: Jumlah SKS lebih × jumlah pertemuan × nominal honor per SKS sesuai jabatan fungsional."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Dimana saya bisa mengakses panduan penelitian terbaru LPPM Universitas Jambi tahun 2025?",
+                "jawaban": "Panduan lengkap pelaksanaan penelitian Universitas Jambi tahun 2025 dapat diakses langsung melalui website resmi LPPM UNJA pada link berikut: https://lppm.unja.ac.id/wp-content/uploads/2019/11/PANDUAN-PENELITIAN-2025-LPPM-UNIVERSITAS-JAMBI.pdf"
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Apa saja Unit Kegiatan Mahasiswa (UKM) yang ada di Universitas Jambi?",
+                "jawaban": "Universitas Jambi memiliki 35 Unit Kegiatan Mahasiswa (UKM) yang mencakup berbagai bidang, mulai dari kepemudaan, sosial, kerohanian, seni, olahraga, hingga teknologi. UKM tersebut antara lain: Pramuka, KSR Palang Merah Indonesia (PMI), Rohis, Paduan Suara, Militer–Menwa, Orkestra/Musik, Relawan Penanggulangan Bencana, Cinema, Pengembangan Tilawatil Qur’an Ar-Rayhaan, Riset & Penalaran Exist, Olahraga dan Bela Diri, Entrepreneurship, Training Motivation Center, Pencinta Alam–Mapala, Robotik, Pengawal Ideologi Bangsa (PIB), Kerohanian Kristen, Protokoler, Bahasa Inggris, Jurnalistik, Badan Eksekutif Mahasiswa (BEM), Majelis Aspirasi Mahasiswa (MAM), Tata Boga, Feast, Sastra, Go Green, PTQ, Kimia Terapan, Komisi Pemilihan Umum (KPU), Seni Budaya Melayu Aljami’ah, Teknologi Informasi (TI), E-Sport, Anggar, dan Tari."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Dimana saja lokasi kampus Universitas Jambi (UNJA) dan kampus apa saja yang dimiliki?",
+                "jawaban": "Universitas Jambi memiliki beberapa kampus, yaitu Kampus Mendalo, Kampus Telanaipura, Kampus Pasar, Kampus Buluran, Kampus Muara Bulian, dan Kampus Pondok Meja. Detail lokasi lengkap beserta Google Maps dapat diakses melalui link berikut : https://www.unja.ac.id/lokasi-kampus/"
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Bagaimana cara mengakses biodata dosen UNJA?",
+                "jawaban": "Biodata dosen Universitas Jambi dapat diakses melalui aplikasi SIMPEG. Informasi umum bisa dilihat langsung tanpa login, sementara data yang lebih lengkap hanya bisa dibuka setelah pengguna melakukan login pada sistem."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Jika saya terlambat membayar UKT, apa yang harus saya lakukan?",
+                "jawaban": "Mahasiswa yang terlambat membayar UKT wajib mengajukan surat permohonan ke Dekan FST, kemudian menunggu proses surat tersebut dari fakultas ke universitas. Setelah itu, mahasiswa perlu mengecek statusnya ke bagian BAK UNJA, dan apabila administrasi sudah selesai diproses, barulah pembayaran UKT bisa dilakukan melalui bank yang ditunjuk ke rekening Universitas Jambi."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Apa saja fasilitas kampus yang tersedia di Universitas Jambi?",
+                "jawaban": "Universitas Jambi menyediakan berbagai fasilitas untuk mendukung kegiatan mahasiswa, mulai dari fasilitas umum seperti asrama, balairung, jaringan internet gratis, kantin, kantor bank/ATM, dan klinik kesehatan; fasilitas akademik seperti laboratorium dasar, perpustakaan, dan pusat komputer; hingga fasilitas lain berupa area parkir, sarana olahraga (GOR, futsal, voli, tenis meja, gym), masjid di setiap fakultas, serta pusat pengendalian keamanan dengan satpam yang siaga 24 jam."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Apa saja transportasi yang tersedia untuk menuju UNJA?",
+                "jawaban": "Untuk menuju Universitas Jambi tersedia layanan Trans Siginjai dengan tarif Rp 5.000 per orang, halte tersedia di beberapa titik dalam kampus Mendalo seperti samping Gedung FST, depan Perpustakaan, samping Gedung UNIFAC, dan Gerbang Utama; jadwal bisa dicek lewat grup WhatsApp atau kontak resmi. Selain itu, tersedia juga layanan antar-jemput UNJA berupa minibus khusus dosen dan karyawan dari Kampus Telanaipura ke Mendalo (PP) dengan jadwal Senin–Kamis pukul 07.30–07.45 berangkat dan 16.00–16.30 pulang, sedangkan Jumat pukul 16.30–17.00."
+            },
+            {
+                "kategori": "Non-Akademik",
+                "pertanyaan": "Apa saja kelengkapan berkas yang harus disiapkan untuk mengajukan usul kenaikan pangkat dosen/tendik?",
+                "jawaban": "Untuk mengajukan usul kenaikan pangkat, unit kerja wajib menyiapkan surat usulan dan berkas kelengkapan usul kenaikan pangkat sesuai persyaratan yang ditetapkan. Staf Subbagian Pendidik/Tendik akan memeriksa kelengkapan berkas tersebut dan menghasilkan checklist dokumen kelengkapan usul kenaikan pangkat yang telah diperiksa, draf surat pengantar, dan rekapan usul kenaikan pangkat. Jika berkas dinyatakan lengkap, proses akan dilanjutkan ke tahapan berikutnya, namun jika tidak lengkap maka berkas akan dikembalikan kepada unit kerja untuk dilengkapi terlebih dahulu. Oleh karena itu, sangat disarankan untuk memastikan semua berkas sudah lengkap dan sesuai format sebelum mengajukan usul kenaikan pangkat agar tidak terjadi penundaan proses"
+            }
+]
